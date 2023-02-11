@@ -1,0 +1,32 @@
+body{
+    background: rgb(76,75,106);
+background: linear-gradient(90deg, rgba(76,75,106,1) 17%, rgba(17,27,78,1) 66%, rgba(5,4,29,1) 86%);
+    color:white;
+font-family:'Courier New', Courier, monospace;
+    font-size:35px;
+}
+#button{
+    font-size:30px;
+color:black;
+width: 10%;
+font-weight: bolder;
+
+}
+.copy_right_footer{
+    text-align: center;
+    background-color: beige;
+    color: red;
+    font-weight: bold;
+}
+#title{
+    background-color: aliceblue;
+    color:black;
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    text-shadow:3px 3px 3px black;
+}
+#result_label , #result_confidence{
+    font-family:serif;
+font-size: 25px;
+}
